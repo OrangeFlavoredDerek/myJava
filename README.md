@@ -15,5 +15,5 @@
 ### Array
 
 ### Other
-* [绳长问题]()
-* [身高预测]()
+* [绳长问题](https://github.com/OrangeFlavoredDerek/myJava/blob/master/Example.java)
+* [身高预测](https://github.com/OrangeFlavoredDerek/myJava/blob/master/Example1.java)
