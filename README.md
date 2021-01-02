@@ -14,10 +14,6 @@
 
 ### Array
 
-### Time Processing
-
-### Method
-
-### Print Graphics
-
-### File Operation
+### Other
+* [绳长问题]()
+* [身高预测]()
