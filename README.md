@@ -13,6 +13,7 @@
 * [StringCaseConversion](https://github.com/OrangeFlavoredDerek/myJava/blob/master/Java%20Demo/String/StringToUpperCaseEmp.java)
 
 ### Array
+* [SortandSearch](https://github.com/OrangeFlavoredDerek/myJava/blob/master/Array/SortandSearch.java)
 
 ### Other
 * [绳长问题](https://github.com/OrangeFlavoredDerek/myJava/blob/master/Example.java)
