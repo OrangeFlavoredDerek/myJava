@@ -18,3 +18,8 @@
 ### Other
 * [绳长问题](https://github.com/OrangeFlavoredDerek/myJava/blob/master/Example.java)
 * [身高预测](https://github.com/OrangeFlavoredDerek/myJava/blob/master/Example1.java)
+* [闰年问题](https://github.com/OrangeFlavoredDerek/myJava/blob/master/Example2.java)
+* [回文数问题](https://github.com/OrangeFlavoredDerek/myJava/blob/master/Example3.java)
+* [九九乘法表](https://github.com/OrangeFlavoredDerek/myJava/blob/master/Example4.java)
+* [判断数字是否在数组中存在](https://github.com/OrangeFlavoredDerek/myJava/blob/master/Exanmple5.java)
+* [打印日历]()

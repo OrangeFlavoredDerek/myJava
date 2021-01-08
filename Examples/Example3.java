@@ -1,3 +1,5 @@
+package Examples;
+
 import java.util.Scanner;
 
 //判断输入的5位整数是否为回文数

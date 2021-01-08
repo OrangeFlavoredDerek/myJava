@@ -1,6 +1,8 @@
+package Examples;
+
 import java.util.*;
 
-public class Exanmple5 {
+public class Example5 {
     public static void main(String[] args) {
         int[] a = {1,3,5,7,9,2,4,6,8,10};
         int x;
